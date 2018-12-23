@@ -2,6 +2,7 @@
 	"author": "ohebi",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A short introduction using git/github and npm",
+	"keywords": [ "npm", "git", "github", "freecodecamp", "tutorial" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
